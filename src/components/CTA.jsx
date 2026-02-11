@@ -71,7 +71,7 @@ export default function CTA() {
                     <h2 className="text-4xl md:text-5xl lg:text-6xl font-heading font-bold text-white mb-4">
                         Ready to Start the
                         <br />
-                        <span className="text-accent-100">Cooking Adventure?</span> 🚀
+                        <span className="text-accent-100">Cooking Adventure?</span>
                     </h2>
                     <p className="text-lg text-white/80 font-body max-w-2xl mx-auto">
                         Enroll your little chef today! Fill out the form below and we'll get back
